@@ -1,4 +1,4 @@
-# Análise exploratória de dados e previsão de Churn
+# Análise exploratória de dados e Churn
 
 Nesta análise, decidi tomar um rumo diferente com as coisas: Andei tendo muita dificuldade para conseguir estudar com as bases de dados disponíveis na internet, me senti muito limitidado e com muita difículdade de localizar bases que remetessem situações reais.
 
